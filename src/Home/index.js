@@ -3,6 +3,7 @@ import ButtonPrimary from "../components/ButtonPrimary";
 import ButtonSecondary from "../components/ButtonSecondary";
 import { Title, Subtitle, Body } from "../components/Text";
 
+
 const Home = () => {
 	return (
 		<div>
