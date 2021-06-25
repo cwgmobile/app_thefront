@@ -7,7 +7,7 @@ import { Title, Subtitle, Body } from "../components/Text";
 const Home = () => {
 	return (
 		<div>
-			<ButtonPrimary title="Get Started" />
+			<ButtonPrimary title="Get oi Started" />
 			<ButtonSecondary title="Documentation" />
 			<Title text="A modern design system for your new" />
 			<Subtitle text="Less code. More speed" />
