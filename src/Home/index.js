@@ -4,9 +4,11 @@ import ButtonSecondary from "../components/ButtonSecondary";
 import { Title, Subtitle, Body } from "../components/Text";
 
 
+
 const Home = () => {
 	return (
 		<div>
+		
 			<ButtonPrimary title="Get  Started" />
 			<ButtonSecondary title="Documentation" />
 			<Title text="A modern design system for your new" />
