@@ -44,7 +44,7 @@ const SectionIntro = () => {
 		<Container maxWidth="lg">
 			<Grid container justify="center">
 				<Grid item md={6}>
-					<Title
+					<Title 
 						text="Build accessible React apps with speed"
 						style={{ textAlign: "center" }}
 					/>

@@ -10,6 +10,7 @@ const styles = makeStyles(() => ({
 		display: "flex",
 		justifyContent: "center",
 		alignItems: "center",
+		cursor:"pointer"
 	},
 }));
 

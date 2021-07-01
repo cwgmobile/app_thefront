@@ -16,4 +16,4 @@ const Body = ({ text }) => {
 	return <p className={classes.body}>{text}</p>;
 };
 
-export { Title, Subtitle, Body };
+export {Title, Subtitle, Body };
