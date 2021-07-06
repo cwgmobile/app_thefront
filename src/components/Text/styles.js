@@ -22,6 +22,7 @@ const styles = makeStyles(() => ({
 		lineHeight: "30px",
 		fontWeight: 400,
 		color: "#2d3748",
+		
 	},
 }));
 

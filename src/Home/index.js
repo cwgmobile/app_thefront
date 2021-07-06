@@ -6,7 +6,7 @@ const Home = () => {
 	return (
 		<div>
 			<SectionIntro />
-			<div style={{ backgroundColor: "#e8eaf6" }}>
+			<div style={{ backgroundColor: "#e8eaf6"}}>
 			</div>
 			<SectionInfo />
 		</div>
