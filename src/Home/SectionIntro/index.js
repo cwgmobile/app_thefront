@@ -6,7 +6,7 @@ import FavoriteIcon from "@material-ui/icons/Favorite";
 import CodeIcon from "@material-ui/icons/Code";
 import { Title, Body, Subtitle } from "../../components/Text";
 import Icon from "../../components/Icon";
-import styles from "./styles";
+import styles from "./style";
 
 const SectionIntro = () => {
 	const classes = styles();
@@ -44,7 +44,7 @@ const SectionIntro = () => {
 		<Container maxWidth="lg">
 			<Grid container justify="center">
 				<Grid item md={6}>
-					<Title 
+					<Title
 						text="Build accessible React apps with speed"
 						style={{ textAlign: "center" }}
 					/>
